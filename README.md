@@ -30,6 +30,8 @@ Fund fees change. Check a fund's current expense ratio in its prospectus before 
 
 ## License and citation
 
+DOI: [10.5281/zenodo.23694700](https://doi.org/10.5281/zenodo.23694700)
+
 Data and calculations: CC BY 4.0. Please cite:
 
 > Eliyate Finance (2026). The Real Cost of Investment Fees: open data. https://eliyatefinance.online/data-lab/fee-study-2026/
