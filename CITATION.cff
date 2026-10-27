@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "The Real Cost of Investment Fees: open data"
+type: dataset
+authors:
+  - name: "Raphael (Eliyate Finance)"
+date-released: 2026-10-24
+license: CC-BY-4.0
+url: "https://eliyatefinance.online/data-lab/fee-study-2026/"
+keywords: [investment fees, expense ratio, index funds, compound growth, personal finance]

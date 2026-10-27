@@ -1,0 +1,10 @@
+source,measure,expense_ratio_percent,year,source_url
+ICI,"Average expense ratio, equity mutual funds",0.4,2025,https://www.ici.org/news-release/mutual-fund-and-etf-fees-remained-near-historic-lows-in-2025
+ICI,"Average expense ratio, bond mutual funds",0.36,2025,https://www.ici.org/news-release/mutual-fund-and-etf-fees-remained-near-historic-lows-in-2025
+ICI,"Average expense ratio, index equity ETFs",0.14,2025,https://www.ici.org/news-release/mutual-fund-and-etf-fees-remained-near-historic-lows-in-2025
+ICI,"Average expense ratio, index bond ETFs",0.09,2025,https://www.ici.org/news-release/mutual-fund-and-etf-fees-remained-near-historic-lows-in-2025
+Morningstar (via ETF.com),"Asset-weighted average expense ratio, all U.S. funds",0.34,2024,https://www.etf.com/sections/news/fund-fees-record-lows-decline-slowing-morningstar
+Morningstar (via ETF.com),"Asset-weighted average expense ratio, all U.S. funds",0.36,2023,https://www.etf.com/sections/news/fund-fees-record-lows-decline-slowing-morningstar
+ETF.com,VOO expense ratio,0.03,2026,https://www.etf.com/sections/news/voo-vs-spy-vs-ivv-which-sp-500-etf-should-you-buy-2026
+ETF.com,IVV expense ratio,0.03,2026,https://www.etf.com/sections/news/voo-vs-spy-vs-ivv-which-sp-500-etf-should-you-buy-2026
+ETF.com,SPY expense ratio,0.0945,2026,https://www.etf.com/sections/news/voo-vs-spy-vs-ivv-which-sp-500-etf-should-you-buy-2026

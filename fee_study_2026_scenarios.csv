@@ -1,0 +1,22 @@
+annual_fee_percent,label,fee_source,years,monthly_contribution_usd,gross_return_percent,ending_balance_usd,lost_vs_0_03_percent_fee_usd,total_contributed_usd
+0.03,"S&P 500 index ETFs (VOO, IVV)",ETF.com,10,300,7.0,51840,0,36000
+0.03,"S&P 500 index ETFs (VOO, IVV)",ETF.com,20,300,7.0,155710,0,72000
+0.03,"S&P 500 index ETFs (VOO, IVV)",ETF.com,30,300,7.0,363832,0,108000
+0.0945,SPY,ETF.com,10,300,7.0,51656,184,36000
+0.0945,SPY,ETF.com,20,300,7.0,154497,1213,72000
+0.0945,SPY,ETF.com,30,300,7.0,359240,4593,108000
+0.14,Average index equity ETF,ICI 2025,10,300,7.0,51527,312,36000
+0.14,Average index equity ETF,ICI 2025,20,300,7.0,153648,2062,72000
+0.14,Average index equity ETF,ICI 2025,30,300,7.0,356040,7792,108000
+0.34,"Average all U.S. funds, asset-weighted",Morningstar 2024,10,300,7.0,50965,875,36000
+0.34,"Average all U.S. funds, asset-weighted",Morningstar 2024,20,300,7.0,149983,5727,72000
+0.34,"Average all U.S. funds, asset-weighted",Morningstar 2024,30,300,7.0,342361,21472,108000
+0.4,Average equity mutual fund,ICI 2025,10,300,7.0,50798,1042,36000
+0.4,Average equity mutual fund,ICI 2025,20,300,7.0,148904,6806,72000
+0.4,Average equity mutual fund,ICI 2025,30,300,7.0,338376,25456,108000
+0.5,Illustrative,,10,300,7.0,50521,1319,36000
+0.5,Illustrative,,20,300,7.0,147126,8584,72000
+0.5,Illustrative,,30,300,7.0,331853,31979,108000
+1.0,Illustrative,,10,300,7.0,49164,2676,36000
+1.0,Illustrative,,20,300,7.0,138612,17098,72000
+1.0,Illustrative,,30,300,7.0,301355,62478,108000
